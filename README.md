@@ -21,11 +21,11 @@
 7) Run npm run-script build. Please note this is customized in package.json to generate and copy the client code to the server.
     
 You can type your text inside input box and press 'Analyze sentiment' and you will see reaction like 'negative', 'positive' or 'neutral'
-![image](https://user-images.githubusercontent.com/63970475/218251357-41878bf6-0270-42f7-9cd0-042e354d42ea.png)
+<img width="839" alt="image" src="https://user-images.githubusercontent.com/63970475/227801770-30d26366-ff54-4684-a62d-a93e5b766fa6.png">
 
 You can press 'Analyze emotions' and you'll get synonyms to the reaction
-![image](https://user-images.githubusercontent.com/63970475/218251403-d98d16af-6249-44ca-aa5b-633da9da62fb.png)
+<img width="852" alt="image" src="https://user-images.githubusercontent.com/63970475/227801677-5b33ab4a-b9bb-44be-a7d9-1a2faad53ea6.png">
 
 You can also put URL with adress to some article and Natural Language Understanding analyse it for you
-![image](https://user-images.githubusercontent.com/63970475/218251442-be376785-6874-4719-97c0-b356bcb224d5.png)
-![image](https://user-images.githubusercontent.com/63970475/218251451-3dd44504-4a53-4d36-af9c-9822eed6db96.png)
+<img width="809" alt="image" src="https://user-images.githubusercontent.com/63970475/227801721-85518064-2f81-4d07-929f-3921e1c037c0.png">
+<img width="865" alt="image" src="https://user-images.githubusercontent.com/63970475/227801733-d75dbc98-4ac5-4063-9068-35bf14f389f9.png">
