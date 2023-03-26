@@ -20,7 +20,9 @@
 
 7) Run npm run-script build. Please note this is customized in package.json to generate and copy the client code to the server.
 
+
 Create your first user and log in
+
 <img width="619" alt="image" src="https://user-images.githubusercontent.com/63970475/227801907-45262c2c-de14-4a2c-a022-f918d3a01cb0.png">
     
 You can type your text inside input box and press 'Analyze sentiment' and you will see reaction like 'negative', 'positive' or 'neutral'
